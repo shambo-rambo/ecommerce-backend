@@ -24,7 +24,7 @@ To start the server, run:
 Ensure you have a MySQL server running and that your .env file is set up with your database credentials.
 
 ## Demonstration
-<iframe src="https://drive.google.com/file/d/1rjHFlNdJeM1h1DWKSBmplmwpfBxClIBA/preview" width="640" height="480" allow="autoplay"></iframe>
+https://drive.google.com/file/d/1rjHFlNdJeM1h1DWKSBmplmwpfBxClIBA
 
 ## Features
 - CRUD operations for managing categories, products, and tags.
