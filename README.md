@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1rjHFlNdJeM1h1DWKSBmplmwpfBxClIBA
 ## Features
 - CRUD operations for managing categories, products, and tags.
 - Sequelize ORM for database management.
-- Express.js server.
+- Express.js server
 
 ## Technologies Used
 - Node.js
